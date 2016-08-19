@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="x.xsl"?>
+
+<breakfast_menu>
+
+<food>
+<name>10 year plan</name>
+<price>8.5% interest</price>
+<description>Suitable for long term investment</description>
+</food>
+
+<food>
+<name>Student Education Plan</name>
+<price>7% interest</price>
+<description>Best loans for students</description>
+</food>
+
+<food>
+<name>20 year plan</name>
+<price>10% interest</price>
+<description>Best loans for senior citizens for long term investment</description>
+</food>
+
+<food>
+<name>2 year plan</name>
+<price>7.2% interest</price>
+<description>Appropriate for short term goals</description>
+</food>
+
+<food>
+<name>5 year plan</name>
+<price>7.7% interest</price>
+<description>Appropriate for medium term goals</description>
+</food>
+
+</breakfast_menu>
